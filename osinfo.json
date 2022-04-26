@@ -1,0 +1,92 @@
+{
+  "hostname": "yahya-PC",
+  "platform": "linux",
+  "architecture": "x64",
+  "numberOfCPUS": [
+    {
+      "model": "Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz",
+      "speed": 1409,
+      "times": {
+        "user": 665830800,
+        "nice": 2189500,
+        "sys": 224692200,
+        "idle": 6273984500,
+        "irq": 0
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz",
+      "speed": 1474,
+      "times": {
+        "user": 630712600,
+        "nice": 2284300,
+        "sys": 206552400,
+        "idle": 1866908300,
+        "irq": 0
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz",
+      "speed": 1480,
+      "times": {
+        "user": 670816700,
+        "nice": 2141400,
+        "sys": 233016100,
+        "idle": 1843972700,
+        "irq": 0
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz",
+      "speed": 1514,
+      "times": {
+        "user": 614313600,
+        "nice": 2269500,
+        "sys": 226819500,
+        "idle": 1864613600,
+        "irq": 0
+      }
+    }
+  ],
+  "networkInterfaces": {
+    "lo": [
+      {
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4",
+        "mac": "00:00:00:00:00:00",
+        "internal": true,
+        "cidr": "127.0.0.1/8"
+      },
+      {
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "mac": "00:00:00:00:00:00",
+        "scopeid": 0,
+        "internal": true,
+        "cidr": "::1/128"
+      }
+    ],
+    "wlp1s0": [
+      {
+        "address": "192.168.1.8",
+        "netmask": "255.255.255.0",
+        "family": "IPv4",
+        "mac": "b8:03:05:6c:24:f1",
+        "internal": false,
+        "cidr": "192.168.1.8/24"
+      },
+      {
+        "address": "fe80::c083:8555:ec55:5bc0",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "mac": "b8:03:05:6c:24:f1",
+        "scopeid": 3,
+        "internal": false,
+        "cidr": "fe80::c083:8555:ec55:5bc0/64"
+      }
+    ]
+  },
+  "uptime": 883561
+}
